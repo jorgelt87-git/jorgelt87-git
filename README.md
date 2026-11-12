@@ -1,11 +1,11 @@
 # Hola, soy Jorge Luis Torres 👋
 
-**Desarrollador web backend** · PHP · Laravel · SQL
+**Coordinador de Desarrollo de Sistemas** · Full stack PHP · Laravel · SQL
 📍 Buenos Aires, Argentina
 
-Hace más de 7 años que desarrollo sistemas web. Me especializo en el backend y en las bases de datos: diseño de tablas, consultas, integraciones entre sistemas y procesos que tienen que funcionar todos los días.
+Desarrollo sistemas web desde 2019. Hoy coordino un área de desarrollo de sistemas en el sector **salud**, y sigo programando todos los días.
 
-Trabajo en el sector **salud**, en plataformas internas, integraciones con otros sistemas y aplicaciones web y móviles.
+Mi fuerte son las bases de datos: diseño de tablas, consultas, optimización e integración entre MySQL y SQL Server. Sobre esa base construyo aplicaciones full stack con Laravel y Livewire. Antes fui cofundador de **Heurística IT** y trabajé como programador independiente.
 
 ## 🛠️ Con qué trabajo
 
@@ -28,19 +28,22 @@ Trabajo en el sector **salud**, en plataformas internas, integraciones con otros
 
 **Servidores y herramientas**
 ![Windows Server / IIS](https://img.shields.io/badge/Windows%20Server%20%2F%20IIS-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 💼 Qué hago
 
+- **Coordinación de desarrollo**: planificación, prioridades y definición técnica de los proyectos.
 - **Sistemas de gestión** en Laravel y Livewire, con paneles, reportes y circuitos de validación.
-- **Integraciones entre sistemas**: APIs REST y conexión entre bases MySQL y SQL Server, incluyendo la limpieza y normalización de datos.
+- **Integraciones entre sistemas**: APIs REST y conexión entre bases MySQL y SQL Server, incluyendo la normalización de datos.
 - **Aplicaciones PWA y móviles** conectadas al backend con autenticación por tokens firmados.
 - **Comunicaciones automatizadas** por WhatsApp y email.
-- **Puesta en producción** en Windows Server / IIS.
+- **Puesta en producción** en Windows Server / IIS y Linux.
 
 ## 🎓 Formación
 
-**Técnico Superior en Comunicaciones**, con orientación tecnológica (Córdoba, Argentina).
+**Técnico Superior en Comunicaciones**: carrera terciaria de 3 años con orientación tecnológica (Córdoba, Argentina).
+Inglés técnico.
 
 ---
 
