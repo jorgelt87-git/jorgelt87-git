@@ -44,4 +44,4 @@ Trabajo en el sector **salud**, en plataformas internas, integraciones con otros
 
 ---
 
-<sub>La mayoría de mis proyectos son privados porque son sistemas internos de las organizaciones donde trabajo.</sub>
+<sub>La mayoría de mis proyectos son privados por tratarse de sistemas internos.</sub>
