@@ -34,9 +34,9 @@ Mi fuerte son las bases de datos: diseño de tablas, consultas, optimización e 
 ## 💼 Qué hago
 
 - **Coordinación de desarrollo**: planificación, prioridades y definición técnica de los proyectos.
-- **Sistemas de gestión** en Laravel y Livewire, con paneles, reportes y circuitos de validación.
+- **Sistemas de gestión** en Laravel y Livewire, con paneles, reportes y procesos administrativos.
 - **Integraciones entre sistemas**: APIs REST y conexión entre bases MySQL y SQL Server, incluyendo la normalización de datos.
-- **Aplicaciones PWA y móviles** conectadas al backend con autenticación por tokens firmados.
+- **Aplicaciones PWA y móviles** conectadas al backend de forma segura.
 - **Comunicaciones automatizadas** por WhatsApp y email.
 - **Puesta en producción** en Windows Server / IIS y Linux.
 
