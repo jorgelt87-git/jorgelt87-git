@@ -3,11 +3,11 @@
 **Coordinador de Desarrollo de Sistemas** · Full stack PHP · Laravel · SQL
 📍 Buenos Aires, Argentina
 
-Desarrollo sistemas web desde 2016. Hoy coordino un área de desarrollo de sistemas en el sector **salud**, y sigo programando todos los días.
+Coordino un equipo de desarrollo de sistemas en el sector **salud**. Vengo de la programación (full stack PHP desde 2016), y sigo cerca del código todos los días.
 
-Mi fuerte son las bases de datos: diseño de tablas, consultas, optimización e integración entre MySQL y SQL Server. Sobre esa base construyo aplicaciones full stack con Laravel y Livewire. Antes trabajé como programador independiente.
+Mi fuerte es **liderar equipos**: armar procesos, ordenar prioridades y garantizar la continuidad de los sistemas, para que funcionen y evolucionen sin cortes. Lo técnico me permite acompañar cada etapa, desde el diseño de los datos hasta la puesta en producción.
 
-## 🛠️ Con qué trabajo
+## 🛠️ Con qué trabajamos
 
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -35,9 +35,10 @@ Mi fuerte son las bases de datos: diseño de tablas, consultas, optimización e 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 💼 Qué hago
+## 💼 Qué hacemos con el equipo
 
-- **Coordinación de desarrollo**: planificación, prioridades y definición técnica de los proyectos.
+- **Liderazgo del equipo**: procesos de desarrollo, prioridades y definición técnica de los proyectos.
+- **Continuidad de los sistemas**: que lo que está en producción siga funcionando mientras evoluciona.
 - **Sistemas de gestión** en Laravel y Livewire, con paneles, reportes y procesos administrativos.
 - **Integraciones entre sistemas**: APIs REST y conexión entre bases MySQL y SQL Server, incluyendo la normalización de datos.
 - **Aplicaciones móviles y de escritorio** con Flutter, NativePHP y PWA, conectadas al backend de forma segura.
