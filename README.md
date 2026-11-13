@@ -44,6 +44,7 @@ Mi fuerte es **liderar equipos**: armar procesos, ordenar prioridades y garantiz
 - **Aplicaciones móviles y de escritorio** con Flutter, NativePHP y PWA, conectadas al backend de forma segura.
 - **Comunicaciones automatizadas** por WhatsApp y email.
 - **Puesta en producción** en Windows Server / IIS y Linux.
+- **Desarrollo seguro**: autenticación, control de accesos y protección de los datos desde el diseño.
 
 ## 🎓 Formación
 
