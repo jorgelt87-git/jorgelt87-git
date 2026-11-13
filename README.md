@@ -15,6 +15,10 @@ Mi fuerte son las bases de datos: diseño de tablas, consultas, optimización e 
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+**Móvil y escritorio**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![NativePHP](https://img.shields.io/badge/NativePHP-1F2937?style=flat&logo=php&logoColor=white)
+
 **Bases de datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -36,7 +40,7 @@ Mi fuerte son las bases de datos: diseño de tablas, consultas, optimización e 
 - **Coordinación de desarrollo**: planificación, prioridades y definición técnica de los proyectos.
 - **Sistemas de gestión** en Laravel y Livewire, con paneles, reportes y procesos administrativos.
 - **Integraciones entre sistemas**: APIs REST y conexión entre bases MySQL y SQL Server, incluyendo la normalización de datos.
-- **Aplicaciones PWA y móviles** conectadas al backend de forma segura.
+- **Aplicaciones móviles y de escritorio** con Flutter, NativePHP y PWA, conectadas al backend de forma segura.
 - **Comunicaciones automatizadas** por WhatsApp y email.
 - **Puesta en producción** en Windows Server / IIS y Linux.
 
