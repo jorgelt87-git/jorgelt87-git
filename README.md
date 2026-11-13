@@ -5,7 +5,7 @@
 
 Desarrollo sistemas web desde 2016. Hoy coordino un área de desarrollo de sistemas en el sector **salud**, y sigo programando todos los días.
 
-Mi fuerte son las bases de datos: diseño de tablas, consultas, optimización e integración entre MySQL y SQL Server. Sobre esa base construyo aplicaciones full stack con Laravel y Livewire. Antes fui cofundador de **Heurística IT** y trabajé como programador independiente.
+Mi fuerte son las bases de datos: diseño de tablas, consultas, optimización e integración entre MySQL y SQL Server. Sobre esa base construyo aplicaciones full stack con Laravel y Livewire. Antes trabajé como programador independiente.
 
 ## 🛠️ Con qué trabajo
 
